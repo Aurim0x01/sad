@@ -1,3 +1,4 @@
+local size = Vector3.new(10, 10, 10)
 --Settings--
 local ESP = {
     Enabled = false,
